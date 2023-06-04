@@ -1,0 +1,18 @@
+course_id,course_title,instructor,level,price,num_subscribers,num_reviews,num_lectures,category,timestamp
+1,Python for Beginners,John Smith,Beginner,19.99,5000,100,50,Programming,2022-01-01T10:30:00Z
+2,Data Science Fundamentals,Jane Doe,Intermediate,29.99,3000,50,40,Data Science,2022-02-15T14:45:00Z
+3,Web Development 101,David Johnson,Beginner,24.99,10000,250,80,Web Development,2022-03-20T09:15:00Z
+4,Machine Learning Mastery,Sarah Williams,Advanced,39.99,2000,20,30,Data Science,2022-04-10T16:00:00Z
+5,JavaScript Basics,Michael Brown,Beginner,14.99,8000,150,60,Web Development,2022-05-05T12:00:00Z
+6,SQL Fundamentals,Emily Davis,Beginner,17.99,4000,80,40,Database,2022-06-10T11:30:00Z
+7,Artificial Intelligence Concepts,Robert Johnson,Advanced,49.99,1500,30,25,Artificial Intelligence,2022-07-15T13:45:00Z
+8,Mobile App Development 101,Emma Wilson,Beginner,29.99,6000,120,70,Mobile Development,2022-08-20T10:15:00Z
+9,Data Analysis with Python,William Thompson,Intermediate,34.99,2500,70,50,Data Science,2022-09-25T14:30:00Z
+10,Java Programming Mastery,Linda Davis,Advanced,44.99,1800,40,35,Programming,2022-10-30T09:45:00Z
+11,Web Design Fundamentals,Alexander Wilson,Beginner,22.99,7000,160,65,Web Development,2022-11-15T11:00:00Z
+12,Introduction to Machine Learning,Natalie Anderson,Intermediate,37.99,2200,50,30,Data Science,2022-12-20T15:15:00Z
+13,C++ Programming Basics,David Smith,Beginner,21.99,3500,90,45,Programming,2023-01-25T13:30:00Z
+14,Data Visualization Techniques,Sophia Johnson,Intermediate,32.99,2700,60,40,Data Science,2023-02-28T10:45:00Z
+15,Android App Development 101,Ethan Davis,Beginner,27.99,4800,110,60,Mobile Development,2023-03-05T14:00:00Z
+16,Introduction to AI and Machine Learning,Samantha Wilson,Intermediate,39.99,1900,30,25,Artificial Intelligence,2023-04-10T11:15:00Z
+17,HTML & CSS Essentials,James Thompson,Beginner,15.99,8200,180,70,Web Development,2023-05-15T13:30:00Z
